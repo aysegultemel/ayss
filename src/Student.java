@@ -3,9 +3,8 @@ public class Student {
     //versiyon2
     public String name;
 
-    //ays23
-
-
+    //ayss4
+    //-----------
 
 
 }
