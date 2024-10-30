@@ -9,6 +9,13 @@ public class Runner {
         //versiyon 3
         System.out.println("versiyon 3");
 
+        //ays
+        System.out.println("ays1");
+
+
+        //ays 3
+        System.out.println("ays1");
+
 
     }
 
