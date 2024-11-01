@@ -1,10 +1,11 @@
 public class Student {
+    public static void main(String[] args) {
+    //vers1
+        System.out.println("vers1");
 
-    //versiyon2
-    public String name;
 
-    //ayss4
-    //-----------
 
+
+    }
 
 }
